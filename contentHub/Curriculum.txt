@@ -1,0 +1,29 @@
+Curriculum
+
+    The curriculum we use is an international one and is designed to prepare you for both UK and US colleges. For years 1-9 we use an international curriculum that is designed not to teach you, but to make you learn about different topics. From year 10 onwards, we follow the IGCSE course wherein, you can chose 6 subjects from 6 categories;
+    - Humanities
+        - Economics
+        - Geography
+        - History
+        - Sociology
+
+
+    - World Languages
+        - Spanish
+        - French
+        - Dutch
+
+    - Creative
+        - Designer Technology
+        - Art
+        - Computer science
+        - Drama
+        - Music
+        - Physical Education
+
+    - Science
+        - Triple science (Teaches supplement (Harder) and gives 3 GCSE's (Chemistry, Biology, Physics))
+        - Double science (Teaches core (Easier) and gives 2 GCSE's (Top 2 highest scoring sciences))
+
+    If you are planning on going to an American college, then you can choose to take the BISH ICE route which in essence, is a continuation of the international curriculum of years 1-9. This is because some colleges do not require you to take GCSE.
+        Continuing on from that, after GCSE, there is the IBDP course which is mandatory and gives you another set of choices;
