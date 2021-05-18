@@ -1,0 +1,68 @@
+ About Us
+
+    Welcome to Our Website
+
+    What is this website for?
+
+        This website is made for new secondary students that are coming to BISH.
+
+        You are now on the page called "About us", and you can come back here by clicking on the BISH school logo.
+
+        The header on the top is your navigation bar and from there you can access any of the sections about school life in BISH.
+
+
+        We have provided a variety of languages for any new students.
+
+        When you first come to the school, you will be given a buddy from your year group to help guide you around the facilities. However, if you would like to contact any of us you can do this by using our school emails.
+
+        Sadly, school emails are deleted once you leave the school meaning that if you are reading this in the future, these emails may not exist anymore.
+
+    About Us
+        We are a group of Year 10 (2018-2019) students of the British International School of Houston, who are trying to make the lives of new students easier.
+
+        Batyr
+            Hello everyone, my name is Batyr and welcome to our website.
+
+            I moved to Houston in 2017 and after just a month, I became a student of the British International School of Houston. I like the school a lot, despite the difficulties I have encountered during my education here.
+
+            Since I lived the majority of my life in Kazakhstan, I was only able to speak Kazakh and Russian with some basics of English. Not only did I have to learn the language, but I also had issues with an understanding of the school system, that seemed very confusing to me.
+
+            In the production of this website I was responsible for coding and designing the pages without any usage of typical website builders like Wix or Weebly, but rather through programming languages such as HTML, CSS and JavaScript.
+
+            Therefore, we have created this website and hope it will make your life easier at BISH.
+
+
+        Nirav
+            Hello, my name is Nirav and welcome to our website.
+
+            I moved to Houston in the summer of 2012 and have been at BISH since year 5. I like the school and its unique way of teaching and learning.
+
+            I've lived many places in my life and have found that the BISH community is one of my favorites. I speak English and am responsible for the content creation. The schooling system here is unique at first as it is all about independent learning but after a while, you will understand it. After a while, I found that it was growing on me.
+
+            Hopefully, you find this website to be useful.
+
+
+        Finn
+            Hi, my name is Finn and I started at BISH in 2016.
+
+            I like it here even though I didn't speak any English when I came here.
+
+            My first day at BISH was a disaster and that is why we created this website so that future students don't have the first day as I did.
+
+            To be particular, I was the content maker of the website, which required me to look up different sources in order to give our readers a better understanding of the school.
+
+            I'm Dutch and have lived in the Netherlands my entire life until I moved here.
+
+            And after BISH I will probably go back to Holland.
+
+            We hope you find this website helpful.
+
+
+        Our Translators
+            Russian - Batyr
+
+            Dutch - Finn
+
+            German - Elliot
+
+            Arabic - Omar

@@ -1,0 +1,84 @@
+Curriculum
+
+    Years 1-9
+        The curriculum used between year 1-9 is an international one and is designed to prepare you for both UK and US colleges where, rather than strictly teaching you about certain topics, the curriculum teaches you how to learn aswell.
+
+    Year 10-11
+        For years 10-11 we follow the IGCSE course wherein, you choose 4 subjects from 4 categories & English + Math:
+        - Humanities
+            - Economics
+            - Geography
+            - History
+            - Sociology
+
+        - World Languages
+            - Spanish
+            - French
+            - Dutch
+
+        - Creative
+            - Designer Technology
+            - Art
+            - Computer science
+            - Drama
+            - Music
+            - Physical Education
+
+        - Science
+            - Triple science - Teaches harder content & awards 3 GCSE's (Chemistry, Biology, Physics)
+            - Double science - Teaches easier content & awards 2 GCSE's (Top 2 highest scoring sciences)
+
+        - Mandatory
+            - Math
+            - English
+
+        Aditionally you can take the BISH ICE route, which is a continuation of the international curriculum of years 1-9, if the college you want to go to doesnt require you to take GCSE.
+
+    Year 12-13
+        For years 12-13 we follow the IBDP course wherein, you choose 6 subjects from 6 categories. From those 6 you must also choose 3 subjects to study at a higher level (HL), which is harder and covers more content, and 3 subjects at standard level (SL).
+        - Group 1 - Studies in language and literature
+            - Language A: English literature
+            - Language A: English language & literature
+            - Literature and performance (SL only)
+
+        - Group 2 - Language acquisition
+            - Language B: Spanish
+            - Language B: French
+            - Language B: German
+            - Language B: German Ab initio (SL only)
+            - Language B: Mandarin Ab initio (SL only)
+            - Language B: Spanish Ab initio (SL only)
+
+        - Group 3 - Individual and societies
+            - Business management
+            - Economics
+            - Geography
+            - History
+            - Psychology
+
+        - Group 4 - Sciences
+            - Biology
+            - Chemistry
+            - Physics
+            - Design Technology
+            - Sports exercise and health sciences
+            - Environmental systems and societies (SL only)
+
+        - Group 5 - Mathematics
+            - Analysis and approaches (More calculus)
+            - Applications and interpretations (More statistics)
+
+        - Group 6 - The Arts
+            - Film
+            - Music
+            - Theatre
+            - Visual arts
+
+        - Alternative Group 6 - Electives
+            - Computer science
+            - Economics
+            - Biology
+            - Chemistry
+            - Physics
+
+        Add ib stuff
