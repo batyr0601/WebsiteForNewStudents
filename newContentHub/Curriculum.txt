@@ -1,10 +1,10 @@
 Curriculum
 
     Years 1-9
-        The curriculum used between year 1-9 is an international one and is designed to prepare you for both UK and US colleges where, rather than strictly teaching you about certain topics, the curriculum teaches you how to learn aswell.
+        The curriculum used between year 1-9 is an international one and is designed to prepare you for both UK and US colleges. Rather than only teaching you about certain topics & material, the curriculum also teaches you how to learn effectively.
 
     Year 10-11
-        For years 10-11 we follow the IGCSE course wherein, you choose 4 subjects from 4 categories & English + Math:
+        For years 10-11 we follow the iGCSE course: You choose 4 subjects from 4 categories & English + Math
         - Humanities
             - Economics
             - Geography
@@ -32,10 +32,13 @@ Curriculum
             - Math
             - English
 
-        Aditionally you can take the BISH ICE route, which is a continuation of the international curriculum of years 1-9, if the college you want to go to doesnt require you to take GCSE.
+        Alternatively you can take the BISH ICE route, which is a continuation of the international curriculum of years 1-9. Normally students don't choose to take this route, but you can consider it if the college you want to go to doesnt require you to take iGCSE. (//Does BISH ICE still exist?//)
 
     Year 12-13
-        For years 12-13 we follow the IBDP course wherein, you choose 6 subjects from 6 categories. From those 6 you must also choose 3 subjects to study at a higher level (HL), which is harder and covers more content, and 3 subjects at standard level (SL).
+        For years 12-13 we follow the IBDP course wherein, you choose 6 subjects from 6 categories. From those 6 you must also choose 3 subjects to study at a higher level (HL) and 3 subjects at standard level (SL).
+
+        HL is harder, covers more content, and requires more teaching time in comparison to SL.
+
         - Group 1 - Studies in language and literature
             - Language A: English literature
             - Language A: English language & literature
@@ -81,4 +84,21 @@ Curriculum
             - Chemistry
             - Physics
 
-        Add ib stuff
+        In each of your subjects you will also need to do an Internal Assessment which is an essay about a certain aspect of the course content.
+
+        To add to this, there are also 3 additional requirements to the IB course:
+            - CAS (Creativity, Activity, Service)
+                CAS is a record of extra-curicular activities that fit into one of the three strands (Creativity, Activity, Service). Overall you will need around 24 CAS experiences (or ~100 hours) over the 2 IB years and atleast 1 CAS project.
+
+                A CAS project is a collaborative CAS experience that comprises a series of CAS experices.
+
+                There is set requirements that must be met for something to be considered a CAS experience or project:
+                    - Must be supervised/ verified by a non-parental adult
+                    - You must not profit financially from the experience (Start a small business)
+                    - Must be something you would not do normally (Getting a drivers license)
+
+            - TOK (Theory of knowledge)
+                TOK is an extra lesson that teaches epistemological philosophy which is a branch of philosophy which teaches you about knowledge itself and how you can gain and transfer it.
+
+            - EE (Extended essay)
+                The extended essay is a research paper that you must write across your 2 IB years, in a specific subject of your choice. It can be about anything that you want but should persue topics outside of your IB course.
