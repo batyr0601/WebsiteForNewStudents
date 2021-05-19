@@ -2,19 +2,19 @@ Timetable
 
     The timetable is your agenda.
 
-       It will tell you when and where you have your lesson so that you can always quickly organize yourself before it starts.
-       It also shows who your teachers are, and which classrooms the lessons will take place in.
-       In addition, it will provide you with the basic structure and order of a school day, such when lunch and break starts and ends, Enrichment/CCA time, Tutor time, etc.
-       An example of a block in your time table will look like this:
+      It will tell you when and where you have your lesson so that you can always quickly organize yourself before it starts.
+      It also shows who your teachers are, and which classrooms the lessons will take place in.
+      In addition, it will provide you with the basic structure and order of a school day, such as when lunch and break starts and ends, Enrichment/CCA time, Tutor time, etc.
+      An example of a block in your timetable will look like this:
 
 
-    Every class/ period is exactly 55 minutes long with 5 minutes of travel time to your next lesson. Sometime you will have double lessons wherein, you will just stay in the same room.
+    Every class/ period is exactly 55 minutes long with 5 minutes of travel time to your next lesson. Sometimes you will have double lessons where you will just stay in the same room.
 
-    The ordering system of your time table is quite easy. In the morning you have tutor time which is where you go to get registered and have PSHE a unique topic that teaches you about useful life skills. This will only last 25 minutes before you go to your first lesson.
+    The ordering system of your timetable is quite easy.
+      In the morning you have tutor time which is where you go to get registered and have PSHE, a unique topic that teaches you about life skills, which only lasts 25 minutes.
 
+      The day is then broken into 3 blocks, 1st block, 2nd block and 3rd block. Each block has two lessons in it called lesson A and lesson B. This helps us to easily divide up the day. Your first two lessons will be called 1A and 1B, your next lessons will be in block two so they will be called 2A and 2B, then 3A and 3B.
 
-    The day is broken into 3 blocks, 1st block, 2nd block and 3rd block. Each block has two lessons in it called lesson A and lesson B. This helps us to easily divide up the day. Your first two lessons will be called 1A and 1B, your next lessons will be in block two so they will be called 2A and 2B, then 3A and 3B.
-
-    You will have a break after 1B where you can relax and get a snack for 25 minutes. Then after 2B you will have lunch time where you can get lunch from the Boma or eat your packed lunch.
+      You will have a break after 1B where you can relax and get a snack for 25 minutes. Then after 2B, you will have lunchtime where you can get lunch from the Boma or eat your packed lunch.
 
 

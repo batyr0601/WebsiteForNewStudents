@@ -1,3 +1,5 @@
+(// Planning to delete all of this //)
+
 Places in Houston
 
     The Katy, Houston area of Texas is renown for there being little to nothing to do. However, there are some things that you can do to have fun with friends or family. You can visit places like:
@@ -16,3 +18,5 @@ Places in Houston
 
         NASA
             If you are willing to go the extra distance, the NASA center is a great place to visit. It is a popular destination for tourists and is well worth it. The interactive tours take you all around the entire NASA campus.
+
+(// Planning to delete all of this //)
