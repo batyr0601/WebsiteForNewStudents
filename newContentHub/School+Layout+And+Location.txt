@@ -2,7 +2,7 @@ School Layout and Location
 
     The school is very large but is actually extremely easy to memorize and remember.
 
-    Our school has four floors and every floor is split up into separate subjects groups. For our current year the layout looks like this:
+    Our school has four floors and every floor is split up into separate subject groups. For our current year the layout looks like this:
         1st Floor - Admissions, Accounting, Principal's office, staff, BOMA, Gym, Welfare
         2nd Floor - Languages, Math, Art, DT
         3rd Floor - Humanities, Sciences, Computer science

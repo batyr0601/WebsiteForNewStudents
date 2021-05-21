@@ -1,7 +1,7 @@
 Curriculum
 
     Years 1-9
-        The curriculum used between year 1-9 is an international one and is designed to prepare you the IGCSE & IB courses. Rather than only teaching you about certain topics & material, the curriculum also teaches you how to learn effectively.
+        The curriculum used between year 1-9 is an international one and is designed to prepare you for the IGCSE & IB courses. Rather than only teaching you about certain topics & material, the curriculum also teaches you how to learn effectively.
 
     Year 10-11
         For years 10-11 we follow the iGCSE course: You choose 4 subjects from 4 categories & English + Math
@@ -32,8 +32,7 @@ Curriculum
             - Math
             - English
 
-        Alternatively, you can take the BISH ICE route, which is a continuation of the international curriculum of years 1-9. Normally students don't choose to take this route, but you can consider it if the college you want to go to doesn't require you to take IGCSE.
-
+        Alternatively, you can take the BISH ICE route, which is a continuation of the international curriculum of years 1-9. This option is normally taken by students for whom the IGCSE is not required for their future academic career.
     Year 12-13
         For years 12-13 we follow the IBDP course wherein, you choose 6 subjects from 6 categories.
 
@@ -95,7 +94,7 @@ Curriculum
 
                 There are set requirements that must be met for something to be considered a CAS experience or project:
                     - Must be supervised/ verified by a non-parental adult
-                    - Must be something you would not do normally (Getting a drivers license)
+                    - Must be something you would not do normally (Getting a driver's license)
                     - You must not profit financially from the experience (Start a small business)
 
             - TOK (Theory of knowledge)

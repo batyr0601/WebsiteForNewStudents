@@ -18,4 +18,3 @@ Rules and Values
         - You are not allowed to enter the gym unsupervised
         - You are not allowed to enter science labs unsupervised
         - Technology is to be used for learning purposes only
-        (// Anything else important? //)
