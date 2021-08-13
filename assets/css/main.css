@@ -90,14 +90,26 @@ section h3.title {
 }
 
 section p {
-  max-width: 48em;
+  max-width: 50vw;
   line-height: 2;
   padding: 0 1.25em;
-  margin-bottom: 2em;
+  margin-bottom: 2%;
   text-align: center;
 }
 
-@media (max-width: 800px) {
+@media (max-width: 1100px) {
+  section p {
+    max-width: 90%;
+  }
+}
+
+@media (max-width: 600px) {
+  section p {
+    max-width: 100%;
+  }
+}
+
+@media (max-width: 1100px) {
   section {
     padding: 3em 1.25em;
   }
@@ -149,6 +161,27 @@ hr {
   position: sticky;
   top: 0;
   z-index: 1020;
+  -webkit-box-flex: 1;
+      -ms-flex-positive: 1;
+          flex-grow: 1;
+}
+
+ul.navbar-nav {
+  -webkit-box-flex: 1;
+      -ms-flex-positive: 1;
+          flex-grow: 1;
+}
+
+li.nav-item {
+  -webkit-box-flex: 1;
+      -ms-flex-positive: 1;
+          flex-grow: 1;
+}
+
+@media (max-width: 1100px) {
+  li.nav-item .dropdown-toggle::after {
+    content: none;
+  }
 }
 
 .bg-info {
@@ -159,6 +192,12 @@ hr {
   text-transform: uppercase;
   font-size: 1em;
   font-family: "Intro-Inline";
+}
+
+@media (max-width: 600px) {
+  .navbar-brand {
+    display: none;
+  }
 }
 
 .nav-link {
@@ -267,7 +306,7 @@ hr {
   background: url(../../assets/img/page-tear-sprite.png) 0 -13px repeat-x;
 }
 
-@media (max-width: 800px) {
+@media (max-width: 1100px) {
   .back {
     padding: 2.25em 2em 2em;
     margin: 0;
@@ -300,7 +339,7 @@ hr {
       flex-basis: 70%;
 }
 
-@media (max-width: 1100px) {
+@media (max-width: 1200px) {
   .intro .grid li.small,
   .intro .grid li.large {
     -ms-flex-preferred-size: 50%;
@@ -308,7 +347,7 @@ hr {
   }
 }
 
-@media (max-width: 800px) {
+@media (max-width: 1100px) {
   .intro .grid li.small,
   .intro .grid li.large {
     -ms-flex-preferred-size: 100%;
@@ -324,7 +363,7 @@ hr {
   text-align: center;
 }
 
-@media (max-width: 800px) {
+@media (max-width: 1100px) {
   .about_us .grid li {
     -ms-flex-preferred-size: 100%;
         flex-basis: 100%;
@@ -400,6 +439,12 @@ footer div h6 {
   padding: 2em;
 }
 
+@media (max-width: 600px) {
+  .content {
+    padding: 2em 1em;
+  }
+}
+
 .content li::before {
   /* add the new bullet point */
   display: inline-block;
@@ -430,6 +475,7 @@ footer div h6 {
     -webkit-box-direction: normal;
         -ms-flex-direction: column;
             flex-direction: column;
+    margin: 2em 0 1em;
   }
 }
 
@@ -463,7 +509,7 @@ footer div h6 {
   height: 60vh;
 }
 
-@media (max-width: 800px) {
+@media (max-width: 1100px) {
   .content #tour {
     width: 70%;
     height: 50vh;
@@ -492,6 +538,49 @@ footer div h6 {
   }
 }
 
+.content blockquote {
+  max-width: 60vw;
+  padding: 20px;
+  background: #b4ecf1;
+  border: 1px solid #2daeba;
+  border-left-width: 10px;
+}
+
+@media (max-width: 600px) {
+  .content blockquote {
+    max-width: 100vw;
+  }
+}
+
+.content .blockquote__text {
+  font-family: -webkit-pictograph;
+  font-size: 1.15em;
+  line-height: 1.5;
+  margin: 0;
+}
+
+.content .blockquote__text--credit {
+  font-weight: bold;
+  font-style: normal;
+  text-align: right;
+  font-family: "DearJoeBoldNew";
+  margin-top: 2vh;
+}
+
+.content .blockquote__text--credit::before {
+  content: "\2014\0020";
+}
+
+.content blockquote::before {
+  content: "\201c";
+  font-size: 70px;
+  color: #2daeba;
+  display: block;
+  margin-bottom: -70px;
+  margin-top: -30px;
+  font-family: sans-serif;
+}
+
 .gallery {
   display: -ms-grid;
   display: grid;
@@ -500,7 +589,7 @@ footer div h6 {
   background: whitesmoke;
 }
 
-@media (max-width: 800px) {
+@media (max-width: 1100px) {
   .gallery {
     -ms-grid-columns: 50% 50%;
         grid-template-columns: 50% 50%;
@@ -522,7 +611,7 @@ footer div h6 {
   background: white;
 }
 
-@media (max-width: 800px) {
+@media (max-width: 1100px) {
   .galleryeven {
     -ms-grid-columns: 50% 50%;
         grid-template-columns: 50% 50%;
@@ -552,7 +641,7 @@ footer div h6 {
   height: 20em;
 }
 
-@media (max-width: 800px) {
+@media (max-width: 1100px) {
   .floors {
     -ms-grid-columns: 50% 50%;
         grid-template-columns: 50% 50%;
@@ -604,7 +693,7 @@ footer div h6 {
   background-color: #4ec4cf;
 }
 
-@media (max-width: 800px) {
+@media (max-width: 1100px) {
   .text {
     padding: 2em 2em;
   }
@@ -626,13 +715,13 @@ footer div h6 {
   padding-top: 20px;
 }
 
-@media (max-width: 800px) {
+@media (max-width: 1100px) {
   .clip {
-    -webkit-clip-path: polygon(0% 0%, 100% 0%, 100% 75%, 100% 75%, 85% 100%, 67% 74%, 0% 75%);
-    clip-path: polygon(0% 0%, 100% 0%, 100% 75%, 100% 75%, 85% 100%, 67% 74%, 0% 75%);
+    -webkit-clip-path: polygon(0% 0%, 100% 0%, 100% 75%, 100% 75%, 85% 100%, 100% 75%, 0% 75%);
+    clip-path: polygon(0% 0%, 100% 0%, 100% 75%, 100% 75%, 85% 100%, 100% 75%, 0% 75%);
   }
   .clip h3 {
-    font: bold 3em "DearJoeBoldNew", sans-serif !important;
+    font: bold 2em "DearJoeBoldNew", sans-serif !important;
     -webkit-transform: rotate(0deg);
             transform: rotate(0deg);
     text-align: center;
@@ -642,10 +731,10 @@ footer div h6 {
 
 .info {
   text-align: center;
-  padding: 2em;
+  padding: 1%;
 }
 
-@media (max-width: 800px) {
+@media (max-width: 1100px) {
   .info {
     padding: 1.0em 1em 2em;
   }
@@ -655,16 +744,8 @@ footer div h6 {
   margin: 0.5em;
 }
 
-.info p {
-  padding: 0 2em;
-  font-size: 1.5em;
-}
-
-@media (max-width: 800px) {
-  .info p {
-    padding: 1em 0 0;
-    font-size: 1.2em;
-  }
+.info hr {
+  margin: 2em auto 2em auto;
 }
 
 .info li::before {
@@ -690,7 +771,7 @@ footer div h6 {
           justify-content: space-between;
 }
 
-@media (max-width: 800px) {
+@media (max-width: 1100px) {
   .values {
     -ms-flex-wrap: wrap;
         flex-wrap: wrap;
