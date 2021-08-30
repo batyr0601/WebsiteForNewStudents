@@ -418,7 +418,7 @@ footer {
 	blockquote {
 		max-width: 60vw;
 		padding: 20px;
-		background: red;
+		background: color(bright);
 		border: 1px solid color(darker);
 		border-left-width: 10px;
 		@include phone {
